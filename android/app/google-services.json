@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572492809728",
+    "project_id": "auth-fb76d",
+    "storage_bucket": "auth-fb76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572492809728:android:163fb561708827f9c6fae5",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572492809728-g59tc58h0v12nj0bergkg5ebe5q4t00m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nUG3YfAxZAt9uedA7Syq0fPMYmkhUO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572492809728-g59tc58h0v12nj0bergkg5ebe5q4t00m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
